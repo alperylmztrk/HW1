@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="toolbar_color">#FFE600</color>
+    <color name="status_bar_color">#D8C625</color>
+    <color name="text_color">#787C09</color>
+    <color name="back_color">#C9C0C1B3</color>
+    <color name="title_color">#040000</color>
+    <color name="app_name_color">#673AB7</color>
+    <color name="ic_renault_background" >#2F2F2F</color>
+</resources>

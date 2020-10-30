@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Renault Models</string>
+    <string name="megan_sedan_text">Renault Megane Sedan, one of the most striking models of its class with its dynamic lines and muscular structure, you will be at the center of the action with its digital speedometer, color HUD display, ergonomic center console, large 8.7 inch, intuitive vertical touch screen and more.</string>
+    <string name="megan_sedan_price_text">Starting from ₺189.900</string>
+    <string name="megan_sedan_title" translatable="false">Renault Megane Sedan</string>
+    <string name="clio_title">Renault Clio</string>
+    <string name="clio_price">Starting from ₺136.900</string>
+    <string name="clio_text">Renault Clio, which reached a sales figure of 15 million units worldwide, has been renewed. Turkey also notable as one of the best-selling car model ready to hit the road with the new generation of the Renault Clio 5th. Striking car with the new engine option in 2020, aims to be one of the two vehicles sold in Turkey. The hybrid version of the new Clio, which appeared in the market with gasoline and diesel engine options, was included in the game in the second half of the year.</string>
+    <string name="kadjar_title" translatable="false">Renault Kadjar</string>
+    <string name="kadjar_price" translatable="false">Starting from ₺358.900</string>
+    <string name="kadjar_text" translatable="false">The new Renault KADJAR stands out with its adventurous look and powerful design. It has an original style with a chrome front grille and LED headlights. With its newly designed front and rear bumpers and 19 ”alloy wheels, the Kadjar is suitable for all types of terrain. Thanks to the new Kadjar features and equipment, it offers a safer, more enjoyable and better driving experience. Thanks to the multimedia systems offered in Kadjar, you can both enjoy multimedia content and control the features of your vehicle. You can easily park your vehicle thanks to the parking support system.</string>
+</resources>
