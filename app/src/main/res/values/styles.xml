@@ -7,7 +7,7 @@
         <!-- Status bar color. -->
         <item name="android:statusBarColor" tools:targetApi="l">?attr/colorPrimaryVariant</item>
         <!-- Customize your theme here. -->
-        <item name="titleTextColor">#580FBD</item>
+        <item name="titleTextColor">@color/app_name_color</item>
     </style>
 
 
